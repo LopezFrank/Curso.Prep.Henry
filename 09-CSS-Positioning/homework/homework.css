@@ -63,3 +63,13 @@ archivo en cualquiera de estas carpetas, estás en el lugar equivocado.
     justify-content: center;
     align-items: center;
 }
+
+#elementoUno {
+    display: flex;
+    align-self: flex-start;
+}
+
+#elementoCuatro {
+    display: flex;
+    align-self: flex-end;
+}
