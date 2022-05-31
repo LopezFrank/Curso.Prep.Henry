@@ -7,7 +7,7 @@ const nuevaString = "saludos";
 const nuevoNum = 5;
 
 // Crea una variable booleana:
-const nuevoBool = true;
+const nuevoBool = false;
 
 // Resuelve el siguiente problema matemático:
 const nuevaResta = 10 - 5 === 5;
@@ -83,8 +83,7 @@ function menosQueNoventa(num) {
     return false;
   }
   
-}npm
-
+  
 function mayorQueCincuenta(num) {
   // Devuelve "true" si el argumento de la función "num" es mayor que cincuenta
   // De lo contrario, devuelve "false"
